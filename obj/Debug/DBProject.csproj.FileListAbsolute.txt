@@ -1,0 +1,50 @@
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\bin\Debug\DBProject.exe.config
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\bin\Debug\DBProject.exe
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\bin\Debug\DBProject.pdb
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.csprojAssemblyReference.cache
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.Form1.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.Properties.Resources.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.csproj.GenerateResource.cache
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.csproj.CoreCompileInputs.cache
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.exe
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.pdb
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.MngStd.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.NewStd.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.CrsGrade.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.totStdGrade.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.MngDept.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.NewDept.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.Std_sDept.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.MngCrs.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.NewCrs.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.totStdCrs.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.crsStds.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.NewQue.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.MC.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.TF.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\DBProject\obj\Debug\DBProject.InsDept.resources
+C:\Users\Nada\Desktop\DBProject\bin\Debug\DBProject.exe.config
+C:\Users\Nada\Desktop\DBProject\bin\Debug\DBProject.exe
+C:\Users\Nada\Desktop\DBProject\bin\Debug\DBProject.pdb
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.csprojAssemblyReference.cache
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.CrsGrade.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.crsStds.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.InsDept.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.Form1.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.MC.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.MngCrs.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.MngDept.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.MngStd.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.NewCrs.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.NewDept.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.NewQue.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.NewStd.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.Properties.Resources.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.Std_sDept.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.TF.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.totStdCrs.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.totStdGrade.resources
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.csproj.GenerateResource.cache
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.csproj.CoreCompileInputs.cache
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.exe
+C:\Users\Nada\Desktop\DBProject\obj\Debug\DBProject.pdb
